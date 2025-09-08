@@ -5,4 +5,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     #path(''), = facebook.com
     #path('devaprender/')
+    path('', views.index, name="home"),
 ]
