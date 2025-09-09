@@ -1,6 +1,6 @@
 Projeto de site sobre cybersegurança:
 Publico alvo: pessoas mais velhas (especialmente idosos).
-Equipe: Gabriel Arruda, Daniel Willian, Ingrid Mota, Pedro Henrique, Matheus Anthiê, Marconi Farias, Danilo, Kauâ Vinicius, Alexandre Costa.
+Equipe: Gabriel Arruda, Daniel Willian, Ingrid Mota, Pedro Henrique, Matheus Anthiê, Marconi Farias, Danilo, Kauâ Vinicius,git Alexandre Costa.
 
 Linguagens utilizadas: python(3.13.7), html 5, css.
 Bibliotecas:
